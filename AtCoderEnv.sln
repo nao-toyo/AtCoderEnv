@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtCoderEnv", "AtCoderEnv\AtCoderEnv.csproj", "{74F6F31B-03CE-42A2-A582-050A7DD2877B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtCoderEnvTest", "AtCoderEnvTest\AtCoderEnvTest.csproj", "{607BA967-C7DF-4DB2-95D6-4FB12F803F61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74F6F31B-03CE-42A2-A582-050A7DD2877B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F6F31B-03CE-42A2-A582-050A7DD2877B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F6F31B-03CE-42A2-A582-050A7DD2877B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F6F31B-03CE-42A2-A582-050A7DD2877B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{607BA967-C7DF-4DB2-95D6-4FB12F803F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607BA967-C7DF-4DB2-95D6-4FB12F803F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607BA967-C7DF-4DB2-95D6-4FB12F803F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607BA967-C7DF-4DB2-95D6-4FB12F803F61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
